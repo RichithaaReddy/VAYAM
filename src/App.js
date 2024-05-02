@@ -20,7 +20,7 @@ function App() {
     <div className="App min-h-screen bg-[#070708] text-white">
       <div className="p-2">
         {/* navbar */}
-        <div className="p-2">
+        <div className="p-2 ">
           <div className="border md:mx-16 lg:mx-[24%] rounded-full  md:px-10 md:py-3 py-2 border-gray-500 m-1 md:m-6">
             <div className="flex justify-between text-[10px] md:text-[16px] lg:text[24px] ">
               <div
